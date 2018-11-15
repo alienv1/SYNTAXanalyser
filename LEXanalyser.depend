@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540422762 source:d:\etudes\etudes ensias\projets\lexanalyser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1539813628 source:d:\etudes\etudes ensias\projets\lexanalyser\tools.c
+	"tools.h"
+
+1539812934 d:\etudes\etudes ensias\projets\lexanalyser\symtablestruct.h
+
+1539814245 d:\etudes\etudes ensias\projets\lexanalyser\tools.h
+
